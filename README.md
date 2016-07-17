@@ -1,4 +1,5 @@
 #Rewriting this b/c why not :eyes:
+As you can see, this is a fork of chafla (a.k.a l_u_c_a_r_i_o)'s goPC and no rewrite has been done yet. So go back to the original project page if you are
 # goPC
 Universal bot, similar to Bill's PC from the /r/PokemonGO discord, and written by `Luc | ルカリオ#5653`.
 Designed out of demand for a similar sort of solution in smaller servers, where users want a no-fuss solution that adds roles based on Pokemon GO teams. Designed to be light, and shouldn't really interfere with anything. Doesn't log anything, either.
